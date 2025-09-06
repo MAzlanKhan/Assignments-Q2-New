@@ -1,0 +1,25 @@
+# ----------------------
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------
+# Virtual environments (all 3 projects)
+3/simple/simproject/.venv/
+3/packaged/project/.venv/
+
+# ----------------------
+# Environment & secrets (all projects)
+3/simple/simproject/.env
+3/packaged/project/.env
+
+
+3/simple/simproject/mysecrets.py
+3/packaged/project/src/project/mysecrets.py
+
+# ----------------------
+# IDE / Editor settings
+.vscode/
+.idea/
