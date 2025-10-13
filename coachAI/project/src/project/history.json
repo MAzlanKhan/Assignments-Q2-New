@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hi my name is azlan"
+  },
+  {
+    "role": "user",
+    "content": "give me a diet plan to lose weight from 80kg to 75kg in one month, for men"
+  },
+  {
+    "role": "user",
+    "content": "what does sendentary means?"
+  },
+  {
+    "role": "user",
+    "content": "18, 6 feets, sendentary"
+  }
+]
